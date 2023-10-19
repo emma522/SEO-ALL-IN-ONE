@@ -5,11 +5,12 @@
 
 This detailed guide is designed to help authors, particularly those at TalentRecap, succeed in SEO (Search Engine Optimization). Whether you're a writer looking to improve your content's visibility or a developer aiming to enhance web implementations, this guide has you covered.
 
-Topics Covered
-Keywords Research
-Schema
-Anchor Tags
-Links
-Headings
-UX (User Experience)
-SEO Copywriting
+### Topics Covered
+- Keywords Research
+- Schema
+- Anchor Tags
+- Links
+- Headings
+- UX (User Experience)
+- SEO Copywriting
+
